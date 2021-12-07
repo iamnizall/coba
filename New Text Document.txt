@@ -1,7 +1,7 @@
 hi
 
-<<<<<<< HEAD
 ini om om
-=======
+
 cek 
->>>>>>> 7de84c5ff71f1ff977680ab3d6ad208fb92b155d
+
+loh
