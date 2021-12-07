@@ -1,7 +1,15 @@
 hi
 
+<<<<<<< HEAD
 ini om om
 
 cek 
 
 loh
+=======
+
+ini om om
+
+cek 1
+
+>>>>>>> 44492daf3d90e0f889be6d1dd19db1de48f9487e
